@@ -23,7 +23,7 @@ pod "ESPopupDialog"
 
 ## Author
 
-Evan Su, evansu@mobiddiction.com.au
+Evan Su, evan.universe.suo@gmail.com
 
 ## License
 
