@@ -1,3 +1,4 @@
+
 # ESPopupDialog
 
 [![CI Status](http://img.shields.io/travis/Evan Su/ESPopupDialog.svg?style=flat)](https://travis-ci.org/Evan Su/ESPopupDialog)
@@ -16,9 +17,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ESPopupDialog is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-```ruby
+ruby
 pod "ESPopupDialog"
-```
+
 
 ## Author
 
@@ -27,3 +28,4 @@ Evan Su, evansu@mobiddiction.com.au
 ## License
 
 ESPopupDialog is available under the MIT license. See the LICENSE file for more info.
+
