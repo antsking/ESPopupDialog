@@ -1,0 +1,6 @@
+framework module ESPopupDialog {
+  umbrella header "ESPopupDialog-umbrella.h"
+
+  export *
+  module * { export * }
+}
